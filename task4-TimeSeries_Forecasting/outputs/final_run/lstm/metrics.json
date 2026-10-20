@@ -1,0 +1,14 @@
+{
+  "model": "lstm",
+  "MAE": 88.91919639921211,
+  "MSE": 10556.158725332658,
+  "RMSE": 102.7431687526361,
+  "MAPE_percent": 18.271780761709717,
+  "R2": -1.086357535310834,
+  "best_epoch": 439,
+  "epochs_run": 519,
+  "validation_RMSE": 30.101914508697202,
+  "parameters": 5025,
+  "training_seconds": 1.7143874000757933,
+  "network_ms_per_sample": 0.11797499959357083
+}

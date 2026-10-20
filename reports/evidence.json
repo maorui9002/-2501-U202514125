@@ -1,0 +1,381 @@
+{
+  "project": "D:\\comsen\\comsen-answer",
+  "files": {
+    "hello.py": "f1c9a45d78dbb0e24680852287ae25b185d2fd74c03df946a2e2b1cb65c70ce6",
+    "task3/00_check_torch.py": "d29c749a49c2879aa3ec6115133bce27fbeffd5e9b5c081532ab82107148b106",
+    ".vscode/settings.json": "b48be4a0808834c155006634c1f3e4c32f577ce9e52b30ee608372c4d89850cb",
+    "task2/assets/example1.jpg": "745c4930e73f13be598f07e2bcf6725c477b5fd1b65ba6e0498e75ab7d769e9e",
+    "task2/outputs/contour_stats.txt": "58e67c282e00da26502d9abfaa496ff32c22bfc5b8dd35b728c9fd1c475fc781",
+    "task2/01_read_image.py": "4ad518ff886f160c316dc5ae001d0b8490b51d926834859ec7713758780fb5c0",
+    "task2/02_contours.py": "8e09e0ceee749e8950562ba7e4cd8e97d974f54501c8b122fbe23642a1ad464a",
+    "task2/03_motion_detection.py": "259d7111fd2227209d7fe3fa5fe7ccfb783d6acea65aabc839cb684f2af3bfec",
+    "task2/04_motion_mog2.py": "843c38998208dd74d363a7ea6e976bea8b5dad63b0694003a189c95b22cc38dd",
+    "task2/05_ball_tracking.py": "85c808eb11830b697a0834292d68a1ac5d5c8714e5b1cb02f2ea0c59d9ecabb4",
+    "task2/outputs/channel_blue.png": "8a8ef5a8daaf1f03bf4f91c46db0af8fe7826270af468d11e9bf64646b8b83b5",
+    "task2/outputs/channel_green.png": "c9bca973e9fdf86a56c4438cb61306d8b523a3ac3c301ef203ce7119ca03c36b",
+    "task2/outputs/channel_red.png": "26b86139c9dc8fca50ea528f38ae7248e48c231ef6e72ca5108aa817ef3d7edc",
+    "task2/outputs/contour_edges.png": "292beeb0c5bb454e2ab0cb9053d7cd766dab6ac40b2a1880f801d781e3ee9df7",
+    "task2/outputs/contour_gray.png": "73628f6f4c49671bfe5a03f521797e0c0c4ec3d7e20583ca863aa1194e6d58dd",
+    "task2/outputs/contour_result.png": "745a30060b58ae6093898eef92015530d3aed019fda87cbc99c663b108a629e2",
+    "task2/outputs/flipped_both.png": "e6f6b43da1467bc4703112c2e22e6e7eea69f871ae41484bc07eff612431f3c1",
+    "task2/outputs/flipped_horizontal.png": "764733934ee0294d6f03921881f8149549b95cf2aa5a377a2dc334273d9e4d17",
+    "task2/outputs/flipped_vertical.png": "f17a1649ee1f2eefd20496560bcdf56a1cf3cedfe906c447d015a24870883747",
+    "task2/outputs/resized_half.png": "9ff5fe3122c5587195e8605a95d4ca72e4650d1ffd9d596e72389ac9acbcf021",
+    "task2/outputs/rotated_45.png": "181ef13f7e1146b7c7a07b134bc76abcf1ade374be295de36ed8590819fe49f4",
+    "task2/outputs/translated.png": "028ee163e075962f455a5be5db97d34fea4414668c650b650bfc465d4fb55eb8",
+    "task3/01_function_fit.py": "96a5429bd16d355e087e4245b5164b5f883b0ac65821da3e81d24ebee7fcda33",
+    "task3/02_mnist.py": "74df89c480a2b453fc80fed73c9c10d539bdf4172df2389eb0cdfac7d9b53393",
+    "task3/outputs/fit_loss.png": "56993234af1bc3b93cb1a20000846d909194bc2ad7ec1fe8368742bb809b4302",
+    "task3/outputs/fit_results.txt": "d67d153ec13bbda4821958477727d6717ac21f9398571c7625f615959740e9c3",
+    "task3/outputs/fit_surfaces.png": "db94386f9ba42276b0e195c7cd8877ee7265dbbd2f9823fb2f22fc1a7df44437",
+    "task3/outputs/mnist_curves.png": "bcc900af7b89342d56b8f6e3a9087572dec1e2aca00f3dc63064d9ac84788641",
+    "task3/outputs/mnist_history.csv": "9d1c08201a4445d0490e07b11dbee013e7579bc503663ec35f6e1a5c3c34c772",
+    "task3/outputs/mnist_mlp.pth": "bf4d1f0c8639183850db9d58776860cbac5e4e8d658e9798f5b144f82406c15d",
+    "task3/outputs/mnist_predictions.png": "31c6bdf8353a49b98c1b056f0b86f91d72038762730979a29b52ad4b93e8f8f6",
+    "task3/outputs/mnist_samples.png": "32e26234ebc07e38b84e7ae6d9ec2e5056f9cedb0454e126bc5ba9c722344c4c",
+    "task4-TimeSeries_Forecasting/outputs/final_run/metrics_comparison.csv": "a0d8a98ea868b5546185a7a92dca42407434d6dfd2da20c65575fb423ff6f010",
+    "task4-TimeSeries_Forecasting/outputs/final_run/test_predictions_comparison.csv": "c53dce5790751da84ab84df7942c841f425ab1610552917ec6f17e078d5b9dd4",
+    "task4-TimeSeries_Forecasting/outputs/final_run/01_dataset_split.png": "b8fe03817ad397cda914e5ead82ec1da82312fe85816ef149128c8a768afe79b",
+    "task4-TimeSeries_Forecasting/outputs/final_run/02_loss_curves.png": "30e1cb032930a8a0bb61bcabf32b257efc5cbdf55f4e09c8daa981f147d6531d",
+    "task4-TimeSeries_Forecasting/outputs/final_run/03_test_predictions.png": "15c6a50b1e96599a9c8d2b405beda7db54c34dc279e9c95fca991bf7d9dd781f",
+    "task4-TimeSeries_Forecasting/outputs/final_run/04_test_errors.png": "5f5963f4be41a7c827e4312c8057aac199264d81faa74c63ff4941baf4ef25de",
+    "task4-TimeSeries_Forecasting/outputs/final_run/05_metrics_comparison.png": "d35e0a45da68f43af13311a20ed4a820965f669f3df63d75e90d5d7723e8b544",
+    "task4-TimeSeries_Forecasting/outputs/final_run/06_attention_weights.png": "663e6c30d48b6cc51ad6276879305d694c177a26949f1bc0b78643b55e18a2fa",
+    "task4-TimeSeries_Forecasting/outputs/final_run/07_future_forecast.png": "9eca2638a0e436cb3fafdb3d438d09c14d7821a3037327b9181e201c9003e388",
+    "task4-TimeSeries_Forecasting/outputs/final_run/config.json": "19cb7bdd97592bdad1458337e8e5ee60a5e545a4d4b67edb010102907a8c3bc1",
+    "task4-TimeSeries_Forecasting/outputs/final_run/future_forecast.csv": "acb43f04e632fd0fe9b624da05a50a0ea0b712ce7ca2741de1d72ac9a7eb57d7",
+    "task4-TimeSeries_Forecasting/outputs/final_run/实验结果说明.md": "acbf462b8b8f696ace0159b935fcb5ad03af4c845ec1e2651a2e3bd38ce47719",
+    "task4-TimeSeries_Forecasting/outputs/final_run/attention_seasonal/best.pt": "52786f587d89426912c4347cc779da5e9a89fc52dc0a94765b71c282d9855083",
+    "task4-TimeSeries_Forecasting/outputs/final_run/attention_seasonal/history.csv": "39b4e6e28773f7dcece5e82131135d08bc252ecb47d045185f981a26886b7bf5",
+    "task4-TimeSeries_Forecasting/outputs/final_run/attention_seasonal/metrics.json": "f8559f3b196c51609ec471ba639ea5231a7475b95f9eb9425ca51e795d0091a0",
+    "task4-TimeSeries_Forecasting/outputs/final_run/attention_seasonal/predictions_test.csv": "a13789dfbd762988e1933aa4e5153c08e72b131d140ce9e181806b16fa76e31a",
+    "task4-TimeSeries_Forecasting/outputs/final_run/attention_seasonal/predictions_train.csv": "4587c8cd43e05878f0dc4f495906dee0c86ecb2e9c667bc89a84dc2308344851",
+    "task4-TimeSeries_Forecasting/outputs/final_run/attention_seasonal/predictions_val.csv": "389ae6567d64087b1f32ae961069d92e009faa166c44eb06da625ca9bee33363",
+    "task4-TimeSeries_Forecasting/outputs/final_run/lstm/best.pt": "2b01d87a2fcebe0667e6894482fa940762afb13848d4866d4e7b159a894d0d29",
+    "task4-TimeSeries_Forecasting/outputs/final_run/lstm/history.csv": "24cf7e300326cfda80f9591ebea15df6d7b57dae302370637b4bc3a40bb83427",
+    "task4-TimeSeries_Forecasting/outputs/final_run/lstm/metrics.json": "bf1132cd724fc570ad51ec90bbea88a8b1dbf85fffbd2855adb1e2d7c8bd34a0",
+    "task4-TimeSeries_Forecasting/outputs/final_run/lstm/predictions_test.csv": "aa6d1f9b742c974c461ebcc7d9e82d774007c78160b481cf8b8aeef2e1b6e2b9",
+    "task4-TimeSeries_Forecasting/outputs/final_run/lstm/predictions_train.csv": "fec79774436a83f2b5425154e89092f844bb597f0e8e4534b2ade7eb57c7e1f4",
+    "task4-TimeSeries_Forecasting/outputs/final_run/lstm/predictions_val.csv": "08115bc9224ff08231270c313a5f060b49f04cce9baefb7062f744cf9cac23f7"
+  },
+  "environment": {
+    "python": "3.11.17",
+    "executable": "D:\\anaconda\\envs\\comsen-answer\\python.exe",
+    "versions": {
+      "torch": "2.10.0+cu128",
+      "torchvision": "0.25.0+cu128",
+      "opencv-contrib-python": "5.0.0.93",
+      "Pillow": "12.3.0",
+      "numpy": "2.4.6",
+      "pandas": "3.0.6",
+      "matplotlib": "3.11.2"
+    },
+    "cuda_runtime": "12.8",
+    "cuda_available": true,
+    "matrix_result": [
+      [
+        7.0,
+        10.0
+      ],
+      [
+        15.0,
+        22.0
+      ]
+    ],
+    "gpu_name": "NVIDIA GeForce RTX 5070 Laptop GPU",
+    "conda": "未能从当前系统复核；此前终端记录为 4.5.11"
+  },
+  "opencv": {
+    "contours": 1,
+    "area": 72200.0,
+    "perimeter": 2386.528121829033,
+    "image_width": 1036,
+    "image_height": 584,
+    "saved_stats": "外轮廓数量：1\n总面积：72200.00 像素平方\n总周长：2386.53 像素\n",
+    "videos": [
+      {
+        "path": "task2/assets/example2.mp4",
+        "width": 1280,
+        "height": 720,
+        "fps": 29.970760233918128,
+        "frames": 984,
+        "bytes": 7237850
+      },
+      {
+        "path": "task2/assets/example3.mp4",
+        "width": 1920,
+        "height": 1080,
+        "fps": 60.05043750019013,
+        "frames": 658,
+        "bytes": 27552356
+      },
+      {
+        "path": "task2/outputs/ball_tracking.mp4",
+        "width": 1920,
+        "height": 1080,
+        "fps": 60.05,
+        "frames": 658,
+        "bytes": 28777439
+      },
+      {
+        "path": "task2/outputs/motion_frame_diff.mp4",
+        "width": 1280,
+        "height": 720,
+        "fps": 29.97,
+        "frames": 984,
+        "bytes": 19594038
+      },
+      {
+        "path": "task2/outputs/motion_mog2.mp4",
+        "width": 1280,
+        "height": 720,
+        "fps": 29.97,
+        "frames": 824,
+        "bytes": 15116940
+      }
+    ],
+    "example4_present": false
+  },
+  "pytorch": {
+    "fit": {
+      "a1": 2.010338,
+      "a2": 1.476441,
+      "a3": 3.026465,
+      "a4": 0.504745,
+      "a5": -0.490974,
+      "a6": 0.813694,
+      "b": 2026.00647,
+      "Test MSE": 2.87741,
+      "Test R2": 0.949507
+    },
+    "mnist_count": 60000,
+    "mnist_train_count": 48000,
+    "mnist_test_count": 12000,
+    "mnist_accuracy": 0.9760833333333333,
+    "mnist_correct": 11713,
+    "mnist_parameters": 235146,
+    "mnist_last": {
+      "epoch": 15.0,
+      "train_loss": 0.0334201380610466,
+      "train_accuracy": 0.9953541666666668,
+      "test_accuracy": 0.9760833333333332
+    },
+    "mnist_confusion": [
+      [
+        1167,
+        0,
+        1,
+        1,
+        1,
+        5,
+        3,
+        0,
+        6,
+        4
+      ],
+      [
+        0,
+        1338,
+        2,
+        3,
+        0,
+        0,
+        2,
+        6,
+        6,
+        2
+      ],
+      [
+        4,
+        5,
+        1163,
+        6,
+        4,
+        1,
+        0,
+        6,
+        5,
+        2
+      ],
+      [
+        1,
+        0,
+        12,
+        1206,
+        0,
+        14,
+        0,
+        4,
+        6,
+        2
+      ],
+      [
+        0,
+        2,
+        2,
+        1,
+        1138,
+        0,
+        3,
+        1,
+        0,
+        14
+      ],
+      [
+        1,
+        0,
+        0,
+        5,
+        1,
+        1037,
+        5,
+        1,
+        1,
+        2
+      ],
+      [
+        8,
+        1,
+        2,
+        0,
+        4,
+        8,
+        1140,
+        0,
+        3,
+        0
+      ],
+      [
+        0,
+        2,
+        3,
+        4,
+        3,
+        0,
+        0,
+        1261,
+        1,
+        8
+      ],
+      [
+        4,
+        0,
+        3,
+        9,
+        6,
+        7,
+        1,
+        0,
+        1140,
+        7
+      ],
+      [
+        2,
+        2,
+        0,
+        12,
+        9,
+        10,
+        0,
+        11,
+        4,
+        1123
+      ]
+    ]
+  },
+  "timeseries": {
+    "metrics": [
+      {
+        "model": "last_value",
+        "MAE": 46.36363636363637,
+        "MSE": 2886.3636363636365,
+        "RMSE": 53.72488842579049,
+        "MAPE_percent": 10.08483065808789,
+        "R2": 0.4295286117740068,
+        "best_epoch": "",
+        "epochs_run": "",
+        "validation_RMSE": "",
+        "parameters": "",
+        "training_seconds": "",
+        "network_ms_per_sample": ""
+      },
+      {
+        "model": "seasonal_naive",
+        "MAE": 49.90909090909091,
+        "MSE": 2681.454545454545,
+        "RMSE": 51.782763014873446,
+        "MAPE_percent": 10.907835504613214,
+        "R2": 0.4700275884373576,
+        "best_epoch": "",
+        "epochs_run": "",
+        "validation_RMSE": "",
+        "parameters": "",
+        "training_seconds": "",
+        "network_ms_per_sample": ""
+      },
+      {
+        "model": "seasonal_growth",
+        "MAE": 13.34962748648755,
+        "MSE": 321.1416494140615,
+        "RMSE": 17.920425480832243,
+        "MAPE_percent": 2.9036135944021124,
+        "R2": 0.9365283984836952,
+        "best_epoch": "",
+        "epochs_run": "",
+        "validation_RMSE": "",
+        "parameters": "",
+        "training_seconds": "",
+        "network_ms_per_sample": ""
+      },
+      {
+        "model": "lstm",
+        "MAE": 88.91919639921211,
+        "MSE": 10556.158725332658,
+        "RMSE": 102.7431687526361,
+        "MAPE_percent": 18.27178076170972,
+        "R2": -1.086357535310834,
+        "best_epoch": 439.0,
+        "epochs_run": 519.0,
+        "validation_RMSE": 30.1019145086972,
+        "parameters": 5025.0,
+        "training_seconds": 1.7143874000757933,
+        "network_ms_per_sample": 0.1179749995935708
+      },
+      {
+        "model": "attention_seasonal",
+        "MAE": 17.769053246909383,
+        "MSE": 559.643602280249,
+        "RMSE": 23.65678765767341,
+        "MAPE_percent": 3.7512064169920527,
+        "R2": 0.8893900066220252,
+        "best_epoch": 54.0,
+        "epochs_run": 134.0,
+        "validation_RMSE": 9.676380839638888,
+        "parameters": 6594.0,
+        "training_seconds": 0.5539894999237731,
+        "network_ms_per_sample": 0.1497550006024539
+      }
+    ],
+    "prediction_columns": [
+      "Month",
+      "Actual",
+      "last_value",
+      "seasonal_naive",
+      "seasonal_growth",
+      "lstm",
+      "attention_seasonal"
+    ],
+    "config": {
+      "lookback": 24,
+      "hidden_size": 32,
+      "epochs": 600,
+      "patience": 80,
+      "learning_rate": 0.004,
+      "weight_decay": 0.0001,
+      "train_ratio": 0.7,
+      "val_ratio": 0.15,
+      "seed": 42,
+      "horizon": 12
+    }
+  }
+}

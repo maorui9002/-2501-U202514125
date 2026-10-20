@@ -1,0 +1,12 @@
+{
+  "lookback": 24,
+  "hidden_size": 32,
+  "epochs": 600,
+  "patience": 80,
+  "learning_rate": 0.004,
+  "weight_decay": 0.0001,
+  "train_ratio": 0.7,
+  "val_ratio": 0.15,
+  "seed": 42,
+  "horizon": 12
+}

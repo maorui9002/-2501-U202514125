@@ -1,0 +1,14 @@
+{
+  "model": "attention_seasonal",
+  "MAE": 17.769053246909383,
+  "MSE": 559.643602280249,
+  "RMSE": 23.65678765767341,
+  "MAPE_percent": 3.7512064169920527,
+  "R2": 0.8893900066220252,
+  "best_epoch": 54,
+  "epochs_run": 134,
+  "validation_RMSE": 9.676380839638888,
+  "parameters": 6594,
+  "training_seconds": 0.5539894999237731,
+  "network_ms_per_sample": 0.14975500060245395
+}

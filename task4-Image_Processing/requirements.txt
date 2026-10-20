@@ -1,0 +1,10 @@
+# 已有 comsen-answer 环境无需重装。
+# GPU 安装源应按显卡选择；本次使用 torch 2.10.0+cu128 / torchvision 0.25.0+cu128。
+torch==2.10.0
+torchvision==0.25.0
+numpy==2.4.6
+pandas==3.0.6
+matplotlib==3.11.2
+Pillow>=10
+# 仅 07_export_report_pdf.py 需要；训练和预测不使用。
+reportlab>=4

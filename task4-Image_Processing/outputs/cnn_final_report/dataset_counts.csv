@@ -1,0 +1,7 @@
+class,train,validation,test
+buildings,1783,408,437
+forest,1818,453,474
+glacier,1934,470,553
+mountain,2039,473,525
+sea,1786,488,510
+street,1867,515,501

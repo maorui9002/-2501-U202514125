@@ -1,0 +1,7 @@
+true/pred,buildings,forest,glacier,mountain,sea,street
+buildings,355,1,2,2,8,69
+forest,5,449,1,4,3,12
+glacier,6,2,429,64,47,5
+mountain,2,2,56,398,62,5
+sea,10,1,10,6,475,8
+street,30,2,1,2,3,463

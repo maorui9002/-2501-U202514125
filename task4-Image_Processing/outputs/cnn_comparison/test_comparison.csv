@@ -1,0 +1,3 @@
+version,best_epoch,val_accuracy,test_accuracy
+cnn_baseline,19,0.8696116850730317,0.861
+cnn_augmented,19,0.8649804061275383,0.8563333333333333
